@@ -1,4 +1,4 @@
-//The number of triplets whose sum is equal to the given value x
+//The number of triplets whose sum is equal to the given value x .
 
 #include <iostream>
 using namespace std;
